@@ -1,0 +1,36 @@
+[
+  {
+    "p_name": "Apple",
+    "p_id": 1,
+    "p_cost": 30,
+    "p_image": "https://i0.wp.com/cdn-prod.medicalnewstoday.com/content/images/articles/319/319884/green-and-red-apples-in-a-bowl-and-on-a-wooden-table.jpg?w=1155&h=1541",
+    "p_availability": 1,
+    "p_details": "Imported from Swiss",
+    "p_category": "Premium"
+  },
+  {
+    "p_name": "Mango",
+    "p_id": 2,
+    "p_cost": 50,
+    "p_image": "https://nationaltoday.com/wp-content/uploads/2022/05/28-Mango-Month-640x514.jpg",
+    "p_availability": 1,
+    "p_details": "Farmed at Selam",
+    "p_category": "Tamilnadu"
+  },
+  {
+    "p_name": "Bananna",
+    "p_id": 3,
+    "p_cost": 5,
+    "p_image": "https://img77.uenicdn.com/image/upload/v1551781423/service_images/shutterstock_375477457.jpg",
+    "p_availability": 0
+  },
+  {
+    "p_name": "Orange",
+    "p_id": 4,
+    "p_cost": 25,
+    "p_image": "https://upload.wikimedia.org/wikipedia/commons/4/43/Ambersweet_oranges.jpg",
+    "p_availability": 1,
+    "p_details": "from Nagpur",
+    "p_category": "Premium"
+  }
+]
